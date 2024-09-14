@@ -1,0 +1,10 @@
+{
+    "id": "file-SZmqYXJTOxk8rMudL2PclGhw",
+    "bytes": 46387,
+    "created_at": 1710222056,
+    "filename": "messages.jsonl",
+    "object": "file",
+    "purpose": "fine-tune",
+    "status": "processed",
+    "status_details": null
+}
